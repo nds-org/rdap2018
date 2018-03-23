@@ -12,7 +12,8 @@ This section will walk you through the basics of Labs Workbench including signin
 
 Open a browser and go to https://www.workshop1.nationaldataservice.org
 
-![](/images/01landing.png)
+<img src="images/01landing.png" width=100">
+
 
 On the landing page, select one of the Sign In links. Enter the provided credentials. After logging in, you'll be taken to an empty dashboard. Select "Add an Application" or the Catalog link to view the available applications.
 
