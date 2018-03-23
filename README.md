@@ -1,4 +1,10 @@
-# Labs Workbench Tutorial
+# Labs Workbench tutorial for RDAP 2018
+
+These tutorial materials are for the [2018 Research Data & Access Summit](https://www.asist.org/rdap/). 
+
+Chicago Hilton, March 21-23, 2018
+
+Presentation [NDS Labs Workbench: A Scalable Platform for Research Data Access, Education, and Training](https://docs.google.com/presentation/d/1peH6UxCkyhuKzEWZ6j2t4-X6zpbhv9NwBWt0SdLqox4).
 
 ## Workbench basics
 
